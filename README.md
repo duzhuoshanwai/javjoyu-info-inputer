@@ -3,4 +3,5 @@
 
 测试版本： 
 jellyfin server 10.9.8 
+
 Python 3.9
